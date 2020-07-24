@@ -21,7 +21,7 @@ void leerArchivo(char *path);
 int esPalabra(char *palabra);
 char *quitarSaltoDeLinea(char *str);
 void actualizarLista(const char *palabra, int numeroLinea);
-void mostarEnConsola();
+void mostrarEnConsola();
 void ordenarPorAparicion();
 
 int main(){
@@ -202,7 +202,7 @@ int numeroDePalabras = 0; // inicialmente no hay palabras leidas, por eso se ini
  * las palabras encontradas y una lista con los numeros de lines
  * en donde aparece cada una
  */
-void mostarEnConsola(){
+void mostrarEnConsola(){
     leerArchivo("..\\texto.txt");
     ordenarPorAparicion();
 
