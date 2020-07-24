@@ -1,6 +1,10 @@
-//
-// Created by DELL on 24/7/2020.
-//
+/*
+ * Taller 3 - Paradigma imperativo
+ * Lenguajes - IS 2020
+ *
+ * Saymon Astua Madrigal - 2018143188
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
