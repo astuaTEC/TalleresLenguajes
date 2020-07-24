@@ -37,7 +37,7 @@ int main(){
     //printf("Este es la comparacion: %i:", Strcomp("hola", "hi"));
     printf("cadena: %s", palabra);*/
 
-    mostarEnConsola(); // este es el ejercicio 2.8 y 2.9
+    mostrarEnConsola(); // este es el ejercicio 2.8 y 2.9
 
     return 0;
 }
